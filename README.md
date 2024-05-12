@@ -10,4 +10,4 @@ This repository is dedicated to the "40 Days Code Python" initiative organized b
 
 ## Resources
 
-[AI VIET NAM Facebook Page](https://www.facebook.com/aivietnam.edu.vn)
+[AI VIET NAM](https://www.facebook.com/aivietnam.edu.vn)
